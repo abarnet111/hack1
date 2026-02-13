@@ -23,6 +23,19 @@
 *Приведите ответ в свободной форме.*  
 
 ---
+### Какие сетевые службы в ней разрешены?  
+
+ ftp, ssh, telnet, smtp, dns, http, rpcbind, netbios-ssn, ftp, mysql, postgresql, vnc  
+   
+### Какие уязвимости были вами обнаружены? (список со ссылками: достаточно трёх уязвимостей)  
+
+[Samba 3.5.0 - Remote Code Execution](https://www.exploit-db.com/exploits/42060)  
+
+[Apache Tomcat 11.0.3 - Remote Code Execution](https://www.exploit-db.com/exploits/52134)  
+
+[vsftpd 2.3.4 - Backdoor Command Execution](https://www.exploit-db.com/exploits/49757)
+
+ 
 
 ---
 
